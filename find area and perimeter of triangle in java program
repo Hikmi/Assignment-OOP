@@ -1,0 +1,72 @@
+question 1
+
+public class test.
+
+{
+
+public static void main (String args[])
+
+{ float b=4,h =13,area ;
+
+area = ( b*h) / 2 ;
+
+System.out.println("Area of Triangle is: "+area);
+
+}}
+
+
+output
+area of triangle 26.0
+program finished
+
+__________________________________
+question 2 
+
+import java.util.Scanner;
+
+class PerimeterOfEquilateralTriangle 
+
+{
+
+   public static void main(String args[]) 
+
+    {   
+
+       
+
+         Scanner s= new Scanner(System.in);
+
+        
+
+         System.out.println("Enter the side of the Triangle:");
+
+         
+
+	 double a= s.nextDouble();
+
+ 
+
+         double  perimeter=3*a;
+
+      
+
+         System.out.println("perimeter of Triangle is: " + perimeter);      
+
+   }
+
+}
+
+Output:
+
+Output
+
+Java
+
+1
+
+2
+
+Enter the side of the Triangle:6
+
+perimeter of Triangle is: 18.0
+
